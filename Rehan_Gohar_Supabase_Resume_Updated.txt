@@ -1,0 +1,63 @@
+REHAN GOHAR
+Software Developer · Technical Writer
+rehanawan1525@gmail.com | github.com/RehanGohar-13 | Faisalabad, Pakistan
+
+PROFILE
+Self-taught software developer and technical writer building web applications independently. Experience with JavaScript, React, Node.js, WebSockets, authentication, and technical documentation. Interested in backend systems, developer tooling, databases, and building clear developer experiences.
+
+TECHNICAL SKILLS
+Languages: JavaScript, HTML, CSS
+Development: React, Node.js, WebSockets
+Tools: Git, GitHub, Vite, Tailwind CSS
+3D / Frontend: Three.js
+Documentation: Technical READMEs, Markdown, Structured Content
+Software: MS Office, Google Workspace, Adobe
+
+SELECTED PROJECTS
+Real-Time Communication Platform — 2026
+JavaScript · Node.js · WebSockets · Authentication
+- Built a real-time communication application with WebSocket-based communication and voice channels.
+- Implemented user authentication and integrated frontend and backend application flows.
+- Developed the project independently, working through architecture, implementation, testing, and iteration.
+
+AI Chat Application — 2026
+JavaScript · Web Application Development
+- Built and iterated on an AI-focused chat application as part of an independent development portfolio.
+- Focused on integrating application functionality into a usable interface and refining the overall experience.
+
+My Universe — 2026
+React · Three.js · Vite · Tailwind CSS
+- Created an interactive 3D portfolio in which projects are represented as planets in a solar-system-style interface.
+- Implemented interactive 3D presentation, orbit mechanics, spectator camera mode, and visual effects.
+- Combined development, visual design, motion, and technical documentation in one project.
+
+Shifting Shadows — 2026
+Browser Game Development
+- Built a complete browser-game project exploring application logic and real-time state management.
+- Focused on taking a project through an end-to-end game loop and shipping a working experience.
+
+EXPERIENCE
+Independent Software Developer — 2023–Present
+Self-Directed Development
+- Build and maintain independent web applications while managing project planning, implementation, debugging, and iteration.
+- Develop frontend and backend functionality and document projects through structured technical documentation and READMEs.
+- Research unfamiliar technologies and solve implementation problems independently.
+
+Freelance Documentation Services — 2024–2025
+Fiverr
+- Offered technical documentation services through a freelance platform.
+- Developed experience creating clear, structured documentation for technical subjects.
+
+WRITING & PUBLISHING
+• Authored three books, including one original fiction work, independently managing the writing and development process.
+• Currently developing two additional books, continuing to build experience in long-form writing, editing, and project management.
+
+EDUCATION
+KingsFord College — 2024–Present
+Higher Secondary Education · Faisalabad, Pakistan
+
+LANGUAGES
+English — Professional | Urdu — Native | Punjabi — Native
+
+FOCUS
+Backend and full-stack development, databases, developer tooling, and technical documentation. Currently expanding experience in these areas through independent projects and hands-on learning.
